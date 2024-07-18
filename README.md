@@ -1,1 +1,1 @@
-# Project-1
+# Apple Stock Trend Analysis and Forecasting
